@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Physiology of layer 5 pyramidal neurons in mouse primary visual cortex: coincidence detection through bursting"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2015-03-01-Physiology-of-layer-5
+date: 2015-03-01
+venue: 'PLoS computational biology'
+citation: 'AS Shai, CA Anastassiou, ME Larkum, C Koch. (2015). &quot;Physiology of layer 5 pyramidal neurons in mouse primary visual cortex: coincidence detection through bursting.&quot; <i>PLoS computational biology</i>. 11(3), e1004090.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[Download paper here](INSERT LINK HERE)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Recommended citation: AS Shai, CA Anastassiou, ME Larkum, C Koch. (2015). "Physiology of layer 5 pyramidal neurons in mouse primary visual cortex: coincidence detection through bursting." <i>PLoS computational biology</i>. 11(3), e1004090.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+---
